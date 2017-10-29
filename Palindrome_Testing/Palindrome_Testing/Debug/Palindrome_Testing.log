@@ -1,0 +1,6 @@
+﻿  Pstring.cpp
+c:\mycode\palindrome_testing\palindrome_testing\palindrome_testing\pstring.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  Palindrome_Testing.cpp
+  Generating Code...
+  Palindrome_Testing.vcxproj -> C:\myCode\Palindrome_Testing\Palindrome_Testing\Debug\Palindrome_Testing.exe
+  Palindrome_Testing.vcxproj -> C:\myCode\Palindrome_Testing\Palindrome_Testing\Debug\Palindrome_Testing.pdb (Full PDB)
